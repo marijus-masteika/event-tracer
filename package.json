@@ -1,7 +1,7 @@
 {
-  "name": "event-tracer",
+  "name": "simple-event-tracer",
   "version": "1.0.0",
-  "description": "Helper package, creates structured event logs so the logs can be combined to a trace later",
+  "description": "A helper package, creates structured event logs so the logs can be combined to a trace later",
   "main": "src/index.js",
   "directories": {
     "test": "test"
